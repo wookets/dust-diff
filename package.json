@@ -1,0 +1,11 @@
+{
+  "name": "dust-diff",
+  "version": "0.0.1",
+  "description": "It looks a dust templates and will find if vars are (not) being used.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wookets",
+  "license": "MIT"
+}
