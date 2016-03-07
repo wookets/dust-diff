@@ -1,0 +1,13 @@
+<div>
+    I'm a dust template.
+    <span>{msg}</span>
+    {> "dust/partial" /}
+</div>
+<div>second body
+{#level1}
+    {body.last}
+    {#level2}
+        {name}
+    {/level2}
+{/level1}
+</div>

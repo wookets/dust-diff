@@ -1,0 +1,9 @@
+{
+  	"maxErrors": 1000,
+	"requireSpacesInFunctionDeclaration":  {
+		"beforeOpeningRoundBrace": true,
+		"beforeOpeningCurlyBrace": true
+	},
+	"validateIndentation": "\t",
+	"validateQuoteMarks": "\""
+}

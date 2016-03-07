@@ -1,0 +1,4 @@
+<p>I'm just a partial</p>
+{#section1}
+ inside the section {seckey}!
+{/section1}
