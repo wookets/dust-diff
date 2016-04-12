@@ -3,7 +3,7 @@ import fs from "fs";
 import dust from "dustjs-linkedin";
 
 import check from "../lib/check";
-import step from "../lib/step";
+import step from "../lib/step-thru-template";
 
 describe("check", function () {
 
